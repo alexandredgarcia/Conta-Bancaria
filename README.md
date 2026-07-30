@@ -35,3 +35,9 @@ cf1.sacar(200)
 # Exibindo os dados da conta
 print(cf1)
 # Saída: C/C: 13000100 ; TITULAR: Alexandre ; SALDO: R$800.00
+
+---
+
+🧑‍💻 Alexandre Dias Garcia 🔗 https://www.linkedin.com/in/alexandred-garcia
+
+📧 alexandredgarcia23@gmail.com
