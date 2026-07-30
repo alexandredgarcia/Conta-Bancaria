@@ -1,8 +1,5 @@
 # 🏦 Sistema Simples de Conta Bancária em Python
 
-[![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Este projeto é uma implementação em **Python** voltada para a prática de **Programação Orientada a Objetos (POO)**. Ele simula o gerenciamento básico de uma conta bancária, permitindo criar contas, efetuar depósitos, realizar saques e verificar saldos com validações de regras de negócio.
 
 ---
