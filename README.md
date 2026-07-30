@@ -9,7 +9,7 @@ Este projeto é uma implementação em **Python** voltada para a prática de **P
 
 ## 📌 Funcionalidades
 
-- **Criação de Conta**: Instancia uma nova conta com número identificador (`id`), nome do titular e saldo inicial (padrão `0.00`).
+- **Criação de Conta**: Instancia uma nova conta com número identificador (id), nome do titular e saldo inicial (padrão 0.00).
 - **Depósitos**: Adiciona valores ao saldo da conta com confirmação visual.
 - **Saques com Validação**: Realiza saques apenas se houver saldo suficiente. Em caso de saldo insuficiente, exibe uma mensagem de alerta.
 - **Representação Textual**: Método especial `__str__` customizado para exibir os dados da conta de forma clara e formatada.
