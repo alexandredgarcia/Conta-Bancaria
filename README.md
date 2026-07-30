@@ -24,23 +24,6 @@ Neste projeto foram aplicados os seguintes conceitos fundamentais:
 
 ---
 
-## 🚀 Como Executar o Projeto
-
-### Pré-requisitos
-- Ter o **Python 3.x** instalado na sua máquina.
-
-### Passo a passo
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-
-2. **Navegue até a pasta do projeto:**
-   cd nome-do-repositorio
-
-3.**Execute o arquivo Python:**
-   conta_bancaria.py
-
 ## 💻 Exemplo de Uso no Código
 
 # Criando uma conta com saldo inicial de R$ 1000.00
