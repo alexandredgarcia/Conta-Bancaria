@@ -38,6 +38,11 @@ print(cf1)
 
 ---
 
+👤 Autor
+Desenvolvido por Alexandre
+
+Aspirante em Desenvolvimento Python
+
 🧑‍💻 Alexandre Dias Garcia 🔗 https://www.linkedin.com/in/alexandred-garcia
 
 📧 alexandredgarcia23@gmail.com
