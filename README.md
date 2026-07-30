@@ -20,7 +20,7 @@ Este projeto é uma implementação em **Python** voltada para a prática de **P
 ## 🛠️ Conceitos de POO Aplicados
 
 Neste projeto foram aplicados os seguintes conceitos fundamentais:
-- **Classes e Objetos**: Estruturação do molde `ContaBancaria` e instanciação dos objetos (`cf1`, `cf2`, `cf3`).
+- **Classes e Objetos**: Estruturação do molde ContaBancaria e instanciação dos objetos (cf1, cf2, cf3).
 - **Método Construtor (`__init__`)**: Inicialização dos atributos do objeto.
 - **Encapsulamento e Estado**: Gerenciamento do estado interno do saldo através dos métodos da classe.
 - **Dunder Methods / Special Methods**: Implementação do `__str__` para representação em string.
