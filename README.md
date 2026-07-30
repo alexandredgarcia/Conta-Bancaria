@@ -38,8 +38,8 @@ print(cf1)
 
 ---
 
-👤 Autor
-Desenvolvido por Alexandre
+👤 Autor:
+Desenvolvido por Alexandre Dias Garcia
 
 Aspirante em Desenvolvimento Python
 
