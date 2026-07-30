@@ -34,3 +34,21 @@ Neste projeto foram aplicados os seguintes conceitos fundamentais:
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
+
+2. **Navegue até a pasta do projeto:**
+   cd nome-do-repositorio
+
+3.**Execute o arquivo Python:**
+   conta_bancaria.py
+
+## 💻 Exemplo de Uso no Código
+
+# Criando uma conta com saldo inicial de R$ 1000.00
+cf1 = ContaBancaria(13000100, 'Alexandre', 1000)
+
+# Efetuando um saque
+cf1.sacar(200)
+
+# Exibindo os dados da conta
+print(cf1)
+# Saída: C/C: 13000100 ; TITULAR: Alexandre ; SALDO: R$800.00
